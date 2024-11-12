@@ -24,3 +24,5 @@ flutter:
         pluginClass: FlutterOlmPlugin
       ios:
         pluginClass: FlutterOlmPlugin
+      macos:
+        pluginClass: FlutterOlmPlugin
